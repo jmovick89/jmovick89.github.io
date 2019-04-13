@@ -34,3 +34,7 @@ body {
   margin-left: 200px;
   padding-left: 20px;
 }
+
+.dt {
+   font-weight: bold;
+}
