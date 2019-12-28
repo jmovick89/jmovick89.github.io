@@ -15,7 +15,7 @@ Strategy = "Be prepared"
 # Evidence
 
 
-While . acknowlege limitations = "true" //as algorithm runs towards infinite find the limit of limiting acknowledgments 
+While . acknowlege limitations = "true" // as algorithm runs towards infinite acknowledge the limit of limitations 
  run concurrent_choice_stream
       define concurrent_choice_stream
          relaxed, confident, loved
