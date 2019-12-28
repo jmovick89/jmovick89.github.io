@@ -10,9 +10,9 @@ The most freedom for the most number of people
 Strategy = "Be prepared"
 # Strategy Explained
 
-# Perceptual Paradigm
-# Behavior
-# Evidence
+// # Perceptual Paradigm
+// # Behavior
+// # Evidence
 
 
 While . acknowlege limitations = "true" // as algorithm runs towards infinite acknowledge the limit of limitations 
@@ -38,5 +38,5 @@ Run concurrent algorithms to achieve the best possible outcome for all earth inh
 - What do I, love? 
 - What do I, allow abundantly? 
 - What do I, say in the silent saloon?
-- What do I, consider my lot?
+- What do I, consider as "my lot"?
 
